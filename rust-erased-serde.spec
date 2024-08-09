@@ -5,8 +5,8 @@
 %global crate erased-serde
 
 Name:           rust-%{crate}
-Version:        0.3.10
-Release:        2%{?dist}
+Version:        0.4.5
+Release:        1
 Summary:        Type-erased Serialize and Serializer traits
 
 # Upstream license specification: MIT OR Apache-2.0
